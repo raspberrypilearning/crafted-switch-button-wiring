@@ -1,10 +1,10 @@
-You will need:
+Tu auras besoin de :
 
-+ A Raspberry Pi Pico
-+ Two pin-socket jumper wires
++ Un Raspberry Pi Pico
++ Deux fils de connexion mâle-femelle
 
-Attach one pin-socket jumper wire to **GP18** and attach the other pin-socket jumper wire to the **GND** closest to it.
+Attache un fil de connexion au **GP18** et attache l'autre fil de connexion au **GND** le plus proche.
 
-![Two pin-socket jumper wires attached to a Raspberry Pi Pico.](images/crafted-switch-wiring.png)
+![Deux fils de connexion attachés à un Raspberry Pi Pico.](images/crafted-switch-wiring.png)
 
-**Tip:** When you craft a switch you will stick the pin end of the jumper wire to a conductive surface, like copper taper or kitchen foil. 
+**Tip:** When you craft a switch you will stick the pin end of the jumper wire to a conductive surface, like copper tape or kitchen foil. 
