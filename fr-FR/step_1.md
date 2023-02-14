@@ -7,4 +7,4 @@ Attache un fil de connexion au **GP18** et attache l'autre fil de connexion au *
 
 ![Deux fils de connexion attachés à un Raspberry Pi Pico.](images/crafted-switch-wiring.png)
 
-**Tip:** When you craft a switch you will stick the pin end of the jumper wire to a conductive surface, like copper tape or kitchen foil. 
+**Astuce :** Lorsque tu fabriques un interrupteur, tu colles l'extrémité de la broche du fil de raccordement sur une surface conductrice, comme du ruban de cuivre ou du papier d'aluminium. 
