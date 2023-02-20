@@ -1,10 +1,10 @@
-You will need:
+Je hebt nodig:
 
-+ A Raspberry Pi Pico
-+ Two pin-socket jumper wires
++ Een Raspberry Pi Pico
++ 2 verbindingsdraden met pin-bus aansluiting
 
-Attach one pin-socket jumper wire to **GP18** and attach the other pin-socket jumper wire to the **GND** closest to it.
+Bevestig een pin-bus verbindingsdraad aan **GP18** en bevestig de andere pin-bus verbindingsdraad aan de **GND** die er het dichtst bij is.
 
-![Two pin-socket jumper wires attached to a Raspberry Pi Pico.](images/crafted-switch-wiring.png)
+![Twee pin-bus verbindingsdraden bevestigd aan een Raspberry Pi Pico.](images/crafted-switch-wiring.png)
 
-**Tip:** When you craft a switch you will stick the pin end of the jumper wire to a conductive surface, like copper tape or kitchen foil. 
+**Tip:** Als je zelf een schakelaar maakt plak je de pin van de verbindingsdraad het beste vast op een geleidend oppervlak, zoals kopertape of aluminiumfolie. 
