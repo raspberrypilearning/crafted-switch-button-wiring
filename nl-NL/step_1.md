@@ -7,4 +7,4 @@ Bevestig een pin-bus verbindingsdraad aan **GP18** en bevestig de andere pin-bus
 
 ![Twee pin-bus verbindingsdraden bevestigd aan een Raspberry Pi Pico.](images/crafted-switch-wiring.png)
 
-**Tip:** Als je zelf een schakelaar maakt plak je de pin van de verbindingsdraad het beste vast op een geleidend oppervlak, zoals kopertape of aluminiumfolie.
+**Tip:** Als je zelf een schakelaar maakt plak je de pin van de verbindingsdraad het beste vast op een geleidend oppervlak, zoals kopertape of aluminiumfolie. 
